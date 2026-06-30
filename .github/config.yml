@@ -1,0 +1,12 @@
+greeting: >
+  👋 Welcome to @xiamuguizhi's repository! Thanks for your interest.
+  
+  If this is your first time here, please check out the README and feel free to ask questions.
+
+issues:
+  comment: >
+    👋 Thanks for opening your first issue! We'll take a look as soon as possible.
+
+pulls:
+  comment: >
+    👋 Thanks for your first pull request! We appreciate your contribution.
