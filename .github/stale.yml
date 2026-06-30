@@ -1,0 +1,23 @@
+daysUntilStale: 60
+daysUntilClose: 7
+exemptLabels:
+  - pinned
+  - security
+  - bug
+  - enhancement
+staleLabel: wontfix
+markAsStale: true
+setLabels:
+  - stale
+issues:
+  staleComment: >
+    This issue has been automatically marked as stale because it has not had
+    recent activity. It will be closed in 7 days if no further activity occurs.
+  closeComment: >
+    This issue was closed because it has been stalled for 7 days with no activity.
+pulls:
+  staleComment: >
+    This pull request has been automatically marked as stale because it has not had
+    recent activity. It will be closed in 7 days if no further activity occurs.
+  closeComment: >
+    This pull request was closed because it has been stalled for 7 days with no activity.
