@@ -1,0 +1,9 @@
+issues:
+  - label: bug
+    title: '.*bug.*|.*fix.*|.*error.*'
+  - label: enhancement  
+    title: '.*feature.*|.*add.*|.*improve.*'
+  - label: documentation
+    title: '.*doc.*|.*readme.*'
+  - label: question
+    title: '.*how.*|.*why.*|.*help.*'
