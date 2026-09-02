@@ -2,7 +2,7 @@
 
 ## 报告漏洞
 
-如果你发现安全漏洞，请通过 xmgzdm@gmail.com 私下报告。
+如果你发现安全漏洞，请通过 GitHub 的 Private vulnerability reporting（仓库 Security 选项卡）私下报告，或在仓库中新建 Issue 并标注「安全」。
 
 **请不要在公开的 Issue 中报告安全漏洞。**
 
